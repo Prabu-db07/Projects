@@ -1,11 +1,11 @@
 {
-    "name": "simplecalculator",
-    "short_name": "simplecalculator",
+    "name": "calculator",
+    "short_name": "calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "simplecalculator",
+    "description": "simple_calculator_project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

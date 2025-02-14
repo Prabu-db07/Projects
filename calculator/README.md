@@ -1,6 +1,6 @@
-# simplecalculator
+# calculator
 
-simplecalculator
+simple_calculator_project
 
 ## Getting Started
 
